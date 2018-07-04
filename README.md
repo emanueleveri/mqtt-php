@@ -1,2 +1,2 @@
 # mqtt-php
-Send message to an mqtt topic through php
+write message on an mqtt topic through php
